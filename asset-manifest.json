@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf4c1e3d.chunk.css",
+    "main.js": "/portfolio/static/js/main.607373a9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.607373a9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.3c50fc71.chunk.js": "/portfolio/static/js/2.3c50fc71.chunk.js",
+    "static/js/2.3c50fc71.chunk.js.map": "/portfolio/static/js/2.3c50fc71.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d76e292289652d78897a1c5ea1f49f6d.js": "/portfolio/precache-manifest.d76e292289652d78897a1c5ea1f49f6d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.bf4c1e3d.chunk.css.map": "/portfolio/static/css/main.bf4c1e3d.chunk.css.map",
+    "static/js/2.3c50fc71.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3c50fc71.chunk.js.LICENSE.txt",
+    "static/media/elite_driving_thumbnail.png": "/portfolio/static/media/elite_driving_thumbnail.13f045ed.png",
+    "static/media/flixcentral_thumbnail.png": "/portfolio/static/media/flixcentral_thumbnail.c878cef8.png",
+    "static/media/google_books_search.png": "/portfolio/static/media/google_books_search.19ffb80a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.3c50fc71.chunk.js",
+    "static/css/main.bf4c1e3d.chunk.css",
+    "static/js/main.607373a9.chunk.js"
+  ]
+}
